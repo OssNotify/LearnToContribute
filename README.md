@@ -1,6 +1,6 @@
 # Learn to Contribute
 
-Welcome! This is a beginner-friendly repository designed to help you make your first open source contribution. Whether you've never used Git before or just need a refresher, you're in the right place.
+Welcome! This is a beginner-friendly repository designed to help you make your first open source contribution. Whether you've never used Git before or need a refresher, you're in the right place.
 
 This project is brought to you by [OSS Notify](https://www.ossnotify.com) — a service that matches developers with open source issues based on their skills.
 
